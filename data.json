@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Uthaman Muthaiah",
+      "email": "uthaman@gmail.com",
+      "age": 34
+    },
+    {
+      "id": "2",
+      "name": "Clark Kent",
+      "email": "clark@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "Toby Macquire",
+      "email": "toby@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "4",
+      "name": "Tom Hollen",
+      "email": "tom@gmail.com",
+      "age": 22
+    }
+  ]
+}
